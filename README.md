@@ -1,3 +1,4 @@
+Компонент аккордеон с плавной анимацией <BR>
 <Accordion <BR>
     disabled = {} <BR>
     style = {{borderRadius: 8}} <BR>
