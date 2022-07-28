@@ -1,5 +1,5 @@
 <Accordion
-    disabled = {} /n
+    disabled = {} <BR>
     style = {{borderRadius: 8}}
     titleMarginLeft = {15}
     title = {
