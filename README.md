@@ -1,5 +1,5 @@
 <Accordion
-    disabled = {!service.subServices.length}
+    disabled = {} /n
     style = {{borderRadius: 8}}
     titleMarginLeft = {15}
     title = {
